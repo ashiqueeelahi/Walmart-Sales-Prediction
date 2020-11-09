@@ -4,6 +4,10 @@ In this project I used different regression algorithms to predict weekly sales f
 
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 
+<h2>NoteBook<?h2>
+
+https://www.kaggle.com/ashiqueeelahi/walmart-sales-pediction-simple-regression-techs
+
 <h2>Used In This Project</h2>
 
 Random Forrest
